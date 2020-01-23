@@ -2,7 +2,7 @@
 
 Capture Controller/Action Route and HTTP values
 
-
+'''
 
 [APILoggingAttribute]  - Add this Attribute to any controller / action you want to capture request from
 [HttpGet]
@@ -31,3 +31,4 @@ public class APILoggingAttribute : ActionFilterAttribute
 
         }     
     }
+'''
